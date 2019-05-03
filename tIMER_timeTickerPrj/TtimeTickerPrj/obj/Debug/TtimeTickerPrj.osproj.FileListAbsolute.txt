@@ -1,0 +1,8 @@
+C:\Users\bhjena\OneDrive\RPA\Openspan Knowledge Base\Solutions\tIMER_timeTickerPrj\TtimeTickerPrj\obj\Debug\TtimeTickerPrj.osprojResolveAssemblyReference.cache
+C:\Users\bhjena\OneDrive\RPA\Openspan Knowledge Base\Solutions\tIMER_timeTickerPrj\TtimeTickerPrj\obj\Debug\ImportTypeMap.resources
+C:\Users\bhjena\OneDrive\RPA\Openspan Knowledge Base\Solutions\tIMER_timeTickerPrj\TtimeTickerPrj\obj\Debug\TtimeTickerPrj.osproj.GenerateResource.Cache
+C:\Users\bhjena\OneDrive\RPA\Openspan Knowledge Base\Solutions\tIMER_timeTickerPrj\TtimeTickerPrj\bin\Debug\RuntimeConfig.xml
+C:\Users\bhjena\OneDrive\RPA\Openspan Knowledge Base\Solutions\tIMER_timeTickerPrj\TtimeTickerPrj\bin\Debug\TtimeTickerPrj.dll
+C:\Users\bhjena\OneDrive\RPA\Openspan Knowledge Base\Solutions\tIMER_timeTickerPrj\TtimeTickerPrj\bin\Debug\TtimeTickerPrj.pdb
+C:\Users\bhjena\OneDrive\RPA\Openspan Knowledge Base\Solutions\tIMER_timeTickerPrj\TtimeTickerPrj\obj\Debug\TtimeTickerPrj.dll
+C:\Users\bhjena\OneDrive\RPA\Openspan Knowledge Base\Solutions\tIMER_timeTickerPrj\TtimeTickerPrj\obj\Debug\TtimeTickerPrj.pdb

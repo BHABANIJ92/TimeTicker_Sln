@@ -1,0 +1,8 @@
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="TtimeTickerPrj" fileName="TtimeTickerPrj.dll" assemblyName="TtimeTickerPrj.dll" id="Project-8D699947BD67312" version="8.0.2025.0" deploymentVersion="1.0" configuration="" createdWith="Build" obfuscated="False" runtime="True" digest="5E5FDF9EE16134C51AD2C1CB3792FFBA788647">
+    <Assemblies>
+      <Assembly value="TtimeTickerPrj.dll" digest="8BD4B5B15BFA3F2D910FF29EB925CDC384B289" />
+      <Assembly value="TtimeTickerPrj.pdb" digest="3979669C47FE0559B5D4DF9D524115565B1335" />
+    </Assemblies>
+  </CompositeStudioProject>
+</DeploymentManifest>
